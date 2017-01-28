@@ -17,3 +17,7 @@
 
 package.box
 .vagrant/
+
+# Ignore ssh files
+.ssh/
+
